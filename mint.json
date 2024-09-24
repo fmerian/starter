@@ -2,7 +2,9 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "layout": "sidenav",
-  "search": "Give it a spin...",
+  "search": {
+    "prompt": "Give it a spin..."
+  },
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
