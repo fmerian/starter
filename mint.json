@@ -2,6 +2,7 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "layout": "solidSidenav",
+  "search": "side",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
